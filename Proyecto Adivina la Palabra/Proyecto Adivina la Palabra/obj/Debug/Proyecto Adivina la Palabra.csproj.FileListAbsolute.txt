@@ -1,0 +1,11 @@
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\bin\Debug\Proyecto Adivina la Palabra.exe.config
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\bin\Debug\Proyecto Adivina la Palabra.exe
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\bin\Debug\Proyecto Adivina la Palabra.pdb
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto Adivina la Palabra.csproj.AssemblyReference.cache
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto_Adivina_la_Palabra.Form1.resources
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto_Adivina_la_Palabra.Properties.Resources.resources
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto Adivina la Palabra.csproj.GenerateResource.cache
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto Adivina la Palabra.csproj.CoreCompileInputs.cache
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto Adivina la Palabra.exe
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto Adivina la Palabra.pdb
+C:\Users\zacro\source\repos\Proyecto Adivina la Palabra\Proyecto Adivina la Palabra\obj\Debug\Proyecto Adivina la Palabra.exe.config
